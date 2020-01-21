@@ -1,0 +1,13 @@
+[
+  {
+    "id": "random",
+    "title": "This is what, I need to expect to come",
+    "completed": false
+  },
+  { "id": "random2", "title": "An another todo item", "completed": true },
+  {
+    "title": "This is what, I need to expect to come",
+    "completed": false,
+    "id": "1d0b70c5-defa-4e7a-9258-107602a0407b"
+  }
+]
